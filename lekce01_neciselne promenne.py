@@ -40,6 +40,13 @@ netext = logicka_2
 skladani_text = "abd" + "def"
 print(skladani_text)
 print("*"*10)
+q = "abc"
+r = "def"
+s = q+r 
 
 rozdil_mezi = "10" + "10"
 a = 10 + 10
+q =str(5)+"a"
+
+a= "5"
+r = 5 + int(a)
